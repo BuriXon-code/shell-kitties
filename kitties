@@ -15,7 +15,7 @@ fi
 
 meow_sigint() {
 	echo -e "\e[38;5;$(( $RANDOM % 255 ))m\e[1A\r\e[K"
-	echo -e "You stopped the avalanche of kitties!\nHow could you?!\nYou bastard..."
+	echo -e "You stopped the avalanche of kitties!\nHow dare you?!\nYou bastard..."
 	echo -e "\e[0m"
 	exit 1
 }

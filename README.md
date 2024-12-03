@@ -25,7 +25,7 @@ or
 > [!TIP]
 > The script accepts a parameter that is a number. The entered number becomes the number of kitties displayed. The parameter is optional.
 
-# Be amazed by kitties!
+## Be amazed by kitties!
 
 
 ![screenshot](/kitties-img1.jpg)
